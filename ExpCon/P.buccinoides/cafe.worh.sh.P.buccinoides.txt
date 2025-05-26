@@ -1,0 +1,6 @@
+date
+version
+load -i genefamily_number -t 12 -l cafe.out.log -p 0.01
+tree ((L.gigantea:483.115639,((((C.betulinus:96.780859,L.ventricosus:96.780859):47.341804,P.buccinoides:144.122663):119.279236,(L.nyassanus:116.750114,P.canaliculate:116.750114):146.651784):125.371919,(A.californica:203.774507,B.glabrata:203.774507):184.999311):94.341821):79.931753,(L.anatina:531.012314,O.bimaculoides:531.012314):32.035078)
+lambda -s -t ((1,((((1,1)1,1)1,(1,1)1)1,(1,1)1)1)1,(1,1)1)
+report reports1/report_run1

@@ -1,0 +1,6 @@
+date
+version
+load -i genefamily_number -t 12 -l cafe.out.log -p 0.01
+tree ((M.yessoensis:504.042421,(((((G.haimaensis:50.110044,G.platifrons:50.110044):219.942264,M.philippinarum:270.052308):42.873533,L.fortunei:312.925840):46.271732,M.galloprovincialis:359.197573):104.417556,(C.gigas:376.542097,P.fucata:376.542097):87.073031):40.427293):63.560136,(L.anatina:531.159262,O.bimaculoides:531.159262):36.443295)
+lambda -s -t ((1,(((((1,1)1,1)1,1)1,1)1,(1,1)1)1)1,(1,1)1)
+report reports2/report_run1
